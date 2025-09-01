@@ -1,0 +1,25 @@
+/* used VS copilot for reviewing mistakes and W3Schools for the styles */
+#fetchBtn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    align-items: center;
+}
+
+#cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    position: relative;
+    border: 3px solid green;
+    font-size: 18px;
+
+}
